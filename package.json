@@ -1,0 +1,17 @@
+{
+  "name": "chatgm",
+  "version": "1.0.0",
+  "description": "chatapp",
+  "main": "server.js",
+  "dependencies": {
+    "mongodb": "^2.1.7",
+    "socket.io": "^1.4.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
